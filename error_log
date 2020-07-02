@@ -1,0 +1,1 @@
+[29-Apr-2018 12:00:01 Asia/Kathmandu] PHP Fatal error:  require_once(): Failed opening required '/home/tameasy/public_html/posadv/app/third_party/MPDF/mpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tameasy/public_html/posadv/app/controllers/Auth.php on line 961
